@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/y2kbeatzz-dot">
-    <img src="./assets/crystal-banner.png" width="900" alt="Crystal - y2kbeatzz-dot" />
+    <img src="./assets/nitta-banner.png" width="900" alt="Nitta - y2kbeatzz-dot" />
   </a>
 
   <br>
