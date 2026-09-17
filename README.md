@@ -60,7 +60,12 @@ A custom web project with a darker visual style.
 
 [![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-39ff14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/y2kbeatzz-dot/After-The-High)
 
+### 💜 Crystal GIF PFP for YouTube
 
+Animated profile pictures that stay applied while browsing YouTube, with a purple interface and optional verified community sharing. **Local mode is available; the Cloudflare sharing service is awaiting deployment.**
+
+[![Download](https://img.shields.io/badge/DOWNLOAD_EXTENSION-C6A5FF?style=for-the-badge&logo=googlechrome&logoColor=21152f)](https://github.com/y2kbeatzz-dot/crystal-gif-pfp/releases)
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-39ff14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/y2kbeatzz-dot/crystal-gif-pfp)
 
 ### 🎵 Music + Media Experiments
 
