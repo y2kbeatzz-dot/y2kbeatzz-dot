@@ -1,13 +1,19 @@
-[README.md](https://github.com/user-attachments/files/32313070/README.md)
-
 <div align="center">
-  <img src="./assets/crystal-banner.png" width="900" alt="Crystal - y2kbeatzz-dot" />
+  <a href="https://github.com/y2kbeatzz-dot">
+    <img src="./assets/crystal-banner.png" width="900" alt="Crystal - y2kbeatzz-dot" />
+  </a>
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/y2kbeatzz-dot?style=for-the-badge&label=FOLLOWERS&color=39ff14&labelColor=0d1117" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/y2kbeatzz-dot?style=for-the-badge&label=STARS&color=39ff14&labelColor=0d1117" alt="GitHub stars" />
+  <a href="https://github.com/y2kbeatzz-dot">
+    <img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/y2kbeatzz-dot?tab=followers">
+    <img src="https://img.shields.io/github/followers/y2kbeatzz-dot?style=for-the-badge&label=FOLLOWERS&color=39ff14&labelColor=0d1117" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
+    <img src="https://img.shields.io/github/stars/y2kbeatzz-dot?style=for-the-badge&label=STARS&color=39ff14&labelColor=0d1117" alt="GitHub stars" />
+  </a>
 
   <br><br>
 
@@ -37,7 +43,9 @@ I like making software feel personal instead of looking like a default template.
 <br>
 
 <div align="center">
-  <img src="./assets/my-projects.png" width="700" alt="My Projects" />
+  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
+    <img src="./assets/my-projects.png" width="700" alt="My Projects" />
+  </a>
 </div>
 
 ### 🏷️ VRChat Avatar Tagger
@@ -67,7 +75,9 @@ I also build and experiment with:
 <br>
 
 <div align="center">
-  <img src="./assets/vrchat-tools.png" width="700" alt="VRChat Tools" />
+  <a href="https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger">
+    <img src="./assets/vrchat-tools.png" width="700" alt="VRChat Tools" />
+  </a>
 </div>
 
 - avatar utilities
@@ -79,7 +89,9 @@ I also build and experiment with:
 <br>
 
 <div align="center">
-  <img src="./assets/windows-apps.png" width="700" alt="Windows Apps" />
+  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
+    <img src="./assets/windows-apps.png" width="700" alt="Windows Apps" />
+  </a>
 </div>
 
 Some of the stuff I like building:
@@ -107,18 +119,45 @@ style:
 ## ⚙️ Tech I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cs,dotnet,python,powershell,electron,git,github,vscode,visualstudio,unity,linux,arch&perline=8" alt="Tech stack" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="46" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="46" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="46" alt="JavaScript" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="Node.js" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="46" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="46" alt=".NET" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" /></a>
+  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="46" alt="PowerShell" /></a>
+  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="46" alt="Electron" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" /></a>
+  <a href="https://github.com/y2kbeatzz-dot"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="46" alt="VS Code" /></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="46" alt="Visual Studio" /></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="46" alt="Unity" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" /></a>
+  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="46" alt="Arch Linux" /></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/github-stats.png" width="700" alt="GitHub Stats" />
+  <a href="https://github.com/y2kbeatzz-dot">
+    <img src="./assets/github-stats.png" width="700" alt="GitHub Stats" />
+  </a>
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y2kbeatzz-dot&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=0d1117&icon_color=39ff14&chart_color=39ff14" alt="GitHub stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y2kbeatzz-dot&theme=github_dark&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=0d1117&icon_color=39ff14&chart_color=39ff14" alt="Top languages" />
+  <a href="https://github.com/y2kbeatzz-dot">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's GitHub stats" />
+  </a>
+  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's top languages" />
+  </a>
+
+  <br>
+
+  <a href="https://github.com/y2kbeatzz-dot">
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's GitHub activity" />
+  </a>
 </div>
 
 <br>
