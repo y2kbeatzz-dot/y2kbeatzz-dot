@@ -12,8 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install Switch libraries
-        run: dkp-pacman -Sy --needed --noconfirm switch-curl switch-jansson switch-zlib
+      - name: Check bundled Switch libraries
+        run: |
+          ls -l /opt/devkitpro/portlibs/switch/lib/libcurl* || true
+          ls -l /opt/devkitpro/portlibs/switch/lib/libjansson* || true
+          ls -l /opt/devkitpro/portlibs/switch/lib/libz* || true
 
       - name: Build NRO
         env:
