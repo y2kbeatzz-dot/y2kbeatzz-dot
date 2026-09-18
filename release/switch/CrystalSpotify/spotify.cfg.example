@@ -1,0 +1,3 @@
+# Generate the real file with tools/SETUP-SPOTIFY.cmd on Windows.
+client_id=YOUR_SPOTIFY_CLIENT_ID
+refresh_token=YOUR_SPOTIFY_REFRESH_TOKEN

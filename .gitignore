@@ -1,0 +1,8 @@
+build/
+*.elf
+*.nro
+*.nacp
+*.map
+tools/spotify.cfg
+spotify.cfg
+.DS_Store
