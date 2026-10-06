@@ -136,6 +136,4 @@ Languages and tools I use and keep learning:
 
 [GitHub](https://github.com/y2kbeatzz-dot) · [guns.lol](https://guns.lol/life999)
 
-<a href="https://github.com/y2kbeatzz-dot"><img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=c4a7ff&style=flat-square" alt="Profile view counter" /></a>
-
 </div>
