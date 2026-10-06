@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nitta-banner.png" width="900" alt="Crystal / Nitta Hoshi — y2kbeatzz-dot" />
+<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="./assets/nitta-banner.png" width="900" alt="Crystal / Nitta Hoshi — explore my projects" /></a>
 
 # hey, I'm Crystal ✦
 
@@ -96,7 +96,22 @@ Languages and tools I use and keep learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,powershell,html,css,js,nodejs,electron,unity,git,vscode,visualstudio,windows,linux&perline=8" alt="C#, .NET, Python, PowerShell, HTML, CSS, JavaScript, Node.js, Electron, Unity, Git, VS Code, Visual Studio, Windows, and Linux" />
+<a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs" height="46" alt="C#" /></a>
+<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" height="46" alt=".NET" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" /></a>
+<a href="https://learn.microsoft.com/powershell/" title="PowerShell"><img src="https://skillicons.dev/icons?i=powershell" height="46" alt="PowerShell" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" height="46" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" height="46" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" height="46" alt="JavaScript" /></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="Node.js" /></a>
+<br><br>
+<a href="https://www.electronjs.org/" title="Electron"><img src="https://skillicons.dev/icons?i=electron" height="46" alt="Electron" /></a>
+<a href="https://unity.com/" title="Unity"><img src="https://skillicons.dev/icons?i=unity" height="46" alt="Unity" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" /></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" height="46" alt="VS Code" /></a>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://skillicons.dev/icons?i=visualstudio" height="46" alt="Visual Studio" /></a>
+<a href="https://www.microsoft.com/windows" title="Windows"><img src="https://skillicons.dev/icons?i=windows" height="46" alt="Windows" /></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" /></a>
 
 </div>
 
@@ -108,7 +123,7 @@ Languages and tools I use and keep learning:
 <br>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" width="700" alt="GitHub contribution activity for y2kbeatzz-dot" />
+<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" width="700" alt="GitHub contribution activity for y2kbeatzz-dot" /></a>
 </div>
 
 </details>
@@ -121,6 +136,6 @@ Languages and tools I use and keep learning:
 
 [GitHub](https://github.com/y2kbeatzz-dot) · [guns.lol](https://guns.lol/life999)
 
-<img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=c4a7ff&style=flat-square" alt="Profile view counter" />
+<a href="https://github.com/y2kbeatzz-dot"><img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=c4a7ff&style=flat-square" alt="Profile view counter" /></a>
 
 </div>
