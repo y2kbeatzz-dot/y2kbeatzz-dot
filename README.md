@@ -1,187 +1,127 @@
 <div align="center">
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img src="./assets/nitta-banner.png" width="900" alt="Nitta - y2kbeatzz-dot" />
-  </a>
 
-  <br>
+<img src="./assets/nitta-banner.png" width="900" alt="Crystal / Nitta Hoshi — y2kbeatzz-dot" />
 
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/y2kbeatzz-dot?tab=followers">
-    <img src="https://img.shields.io/github/followers/y2kbeatzz-dot?style=for-the-badge&label=FOLLOWERS&color=39ff14&labelColor=0d1117" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
-    <img src="https://img.shields.io/github/stars/y2kbeatzz-dot?style=for-the-badge&label=STARS&color=39ff14&labelColor=0d1117" alt="GitHub stars" />
-  </a>
+# hey, I'm Crystal ✦
 
-  <br><br>
+**Nitta Hoshi · she/her · y2kbeatzz-dot**
 
-  <b>she/her • Windows app developer • VRChat creator tools • UI experiments</b>
+I build tools I wish already existed.<br>
+Apps, VRChat creator tools, personal interfaces, and projects that help people connect.
+
+[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-c4a7ff?style=for-the-badge&logo=github&logoColor=171322)](https://github.com/y2kbeatzz-dot?tab=repositories)
+[![CrystalTalk](https://img.shields.io/badge/TRY_CRYSTALTALK-94e2d5?style=for-the-badge&logoColor=171322)](https://y2kbeatzz-dot.github.io/crystaltalk/)
+[![Find me](https://img.shields.io/badge/FIND_ME-f5c2e7?style=for-the-badge&logoColor=171322)](https://guns.lol/life999)
+
+</div>
+
+---
+
+### A little about me
+
+Windows is my main workspace, Unity is where I work on VRChat projects, and I’m always learning something new. I like dark interfaces, Y2K details, music, and making everyday software feel more personal.
+
+My projects range from mobile communication apps to desktop experiments and awareness websites. Some are practical, some are cozy, and some start with “why doesn’t this exist already?”
+
+### In the spotlight
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 CrystalTalk
+**Your words. Your way.**
+
+A free VRChat communication companion for iPhone, iPad, and Android. Send phrase buttons or typed messages to the chatbox through OSC.
+
+Made with nonverbal people in mind, and for anyone who prefers not to use their mic.
+
+[Website & downloads](https://y2kbeatzz-dot.github.io/crystaltalk/) · [Repository](https://github.com/y2kbeatzz-dot/crystaltalk)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ Crystal VRC Toolkit
+**Less searching. More creating.**
+
+A Unity workspace bringing VRChat avatar and world resources together: a searchable tool hub, material and blendshape editing, project checks, and quick actions.
+
+Distributed through VCC / ALCOM.
+
+[Install & guide](https://github.com/y2kbeatzz-dot/crystal-vrc-toolkit#readme) · [Repository](https://github.com/y2kbeatzz-dot/crystal-vrc-toolkit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🐾 Crystal Pocket Pet
+**A little companion in your pocket.**
+
+A cozy offline virtual pet for iPhone and iPad. Care for Nova, catch stars, earn coins, and unlock colors.
+
+[About & installation](https://github.com/y2kbeatzz-dot/crystal-pocket-pet#readme)
+
+</td>
+<td width="50%" valign="top">
+
+#### 💜 Through Every Season
+**A space for coping and connection.**
+
+A self-harm and suicide awareness website with coping ideas, support resources, optional music, and seasonal themes.
+
+[Visit the site](https://y2kbeatzz-dot.github.io/Through-Every-Season/) · [Repository](https://github.com/y2kbeatzz-dot/Through-Every-Season)
+
+</td>
+</tr>
+</table>
+
+### More from my corner of GitHub
+
+| Project | What it’s for |
+| :--- | :--- |
+| [After The High](https://y2kbeatzz-dot.github.io/After-The-High/) | Drug awareness, overdose prevention, recovery, remembrance, and help resources. |
+| [VRChat Avatar Tagger](https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger) | Bulk-apply VRChat Content Warning tags from the command line. |
+| [Crystal GIF PFP](https://github.com/y2kbeatzz-dot/crystal-gif-pfp) | A browser extension for animated profile pictures on YouTube. |
+
+### What I like working on
+
+- **VRChat & Unity:** avatar utilities, creator workflows, OSC, and custom interfaces.
+- **Desktop & browser:** Windows apps, launchers, wallpaper customization, and UI experiments.
+- **Music & media:** players, lyrics, visualizers, animated artwork, and media widgets.
+- **Mobile:** communication tools and small personal apps for phones and tablets.
+
+### My toolbox
+
+Languages and tools I use and keep learning:
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,powershell,html,css,js,nodejs,electron,unity,git,vscode,visualstudio,windows,linux&perline=8" alt="C#, .NET, Python, PowerShell, HTML, CSS, JavaScript, Node.js, Electron, Unity, Git, VS Code, Visual Studio, Windows, and Linux" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="./assets/about-me.png" width="650" alt="About Me" />
-</div>
-
-```txt
-name      : Crystal / Nitta Hoshi
-username  : y2kbeatzz-dot
-pronouns  : she/her
-focus     : Windows apps • VRChat • UI/UX • music tools • modding
-vibe      : dark • Y2K • neon • horror • custom interfaces
-```
-
-I build tools and apps that I wish already existed.
-
-Most of my projects are focused on **custom Windows software**, **VRChat creator utilities**, **music/media apps**, **launchers**, **browser customization**, and other experiments with custom UI.
-
-I like making software feel personal instead of looking like a default template.
+<details>
+<summary><b>A peek at my GitHub activity</b></summary>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
-    <img src="./assets/my-projects.png" width="700" alt="My Projects" />
-  </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" width="700" alt="GitHub contribution activity for y2kbeatzz-dot" />
 </div>
 
-### 🏷️ VRChat Avatar Tagger
+</details>
 
-Bulk-apply VRChat Content Warning tags to avatars from the command line.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-39ff14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger)
-
-### 🌑 After The High
-
-A custom web project with a darker visual style.
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-39ff14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/y2kbeatzz-dot/After-The-High)
-
-### 💜 Crystal GIF PFP for YouTube
-
-Animated profile pictures that stay applied while browsing YouTube, with a purple interface and optional verified community sharing. **The shared service is online and the download is connected—no server setup needed.** Shared GIFs are visible to other extension users. Available as a preview while live sharing is being tested.
-
-[![Download](https://img.shields.io/badge/DOWNLOAD_EXTENSION-C6A5FF?style=for-the-badge&logo=googlechrome&logoColor=21152f)](https://github.com/y2kbeatzz-dot/crystal-gif-pfp/archive/refs/heads/main.zip)
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-39ff14?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/y2kbeatzz-dot/crystal-gif-pfp)
-
-### 🎵 Music + Media Experiments
-
-I also build and experiment with:
-
-- custom Windows music players
-- synced lyrics
-- animated album artwork
-- audio-reactive visualizers
-- Windows media integrations
-- Spotify / Apple Music experiments
-- desktop media widgets
-
-<br>
+---
 
 <div align="center">
-  <a href="https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger">
-    <img src="./assets/vrchat-tools.png" width="700" alt="VRChat Tools" />
-  </a>
-</div>
 
-- avatar utilities
-- Unity workflow tools
-- creator automation
-- avatar tagging systems
-- custom avatar / UI experiments
+**build it · break it · fix it · make it feel like me**
 
-<br>
+[GitHub](https://github.com/y2kbeatzz-dot) · [guns.lol](https://guns.lol/life999)
 
-<div align="center">
-  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
-    <img src="./assets/windows-apps.png" width="700" alt="Windows Apps" />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=y2kbeatzz-dot&label=PROFILE+VIEWS&color=c4a7ff&style=flat-square" alt="Profile view counter" />
 
-Some of the stuff I like building:
-
-```yaml
-apps:
-  - desktop launchers
-  - music players
-  - media widgets
-  - visualizers
-  - browser customizers
-  - game launchers
-  - automation tools
-
-style:
-  - dark UI
-  - neon green
-  - Y2K
-  - horror / grunge
-  - animated interfaces
-```
-
-<br>
-
-## ⚙️ Tech I Use
-
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="46" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="46" alt="CSS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="46" alt="JavaScript" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="46" alt="Node.js" /></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="46" alt="C#" /></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" height="46" alt=".NET" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="46" alt="Python" /></a>
-  <a href="https://learn.microsoft.com/powershell/"><img src="https://skillicons.dev/icons?i=powershell" height="46" alt="PowerShell" /></a>
-  <a href="https://www.electronjs.org/"><img src="https://skillicons.dev/icons?i=electron" height="46" alt="Electron" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="46" alt="Git" /></a>
-  <a href="https://github.com/y2kbeatzz-dot"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="46" alt="VS Code" /></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio" height="46" alt="Visual Studio" /></a>
-  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="46" alt="Unity" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="46" alt="Linux" /></a>
-  <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="46" alt="Arch Linux" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img src="./assets/github-stats.png" width="700" alt="GitHub Stats" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's GitHub stats" />
-  </a>
-  <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's top languages" />
-  </a>
-
-  <br>
-
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" alt="Crystal's GitHub activity" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./assets/find-me.png" width="650" alt="Find Me" />
-
-  <br>
-
-  <a href="https://github.com/y2kbeatzz-dot">
-    <img src="https://img.shields.io/badge/GITHUB-y2kbeatzz--dot-0d1117?style=for-the-badge&logo=github&logoColor=39ff14" alt="GitHub" />
-  </a>
-  <a href="https://guns.lol/life999">
-    <img src="https://img.shields.io/badge/GUNS.LOL-life999-39ff14?style=for-the-badge&labelColor=0d1117" alt="guns.lol" />
-  </a>
-
-  <br><br>
-
-  <code>build it • break it • fix it • make it look cool</code>
 </div>
