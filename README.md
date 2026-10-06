@@ -55,12 +55,12 @@ Distributed through VCC / ALCOM.
 <tr>
 <td width="50%" valign="top">
 
-#### 🐾 Crystal Pocket Pet
-**A little companion in your pocket.**
+#### 🌑 After The High
+**Awareness, recovery, and remembrance.**
 
-A cozy offline virtual pet for iPhone and iPad. Care for Nova, catch stars, earn coins, and unlock colors.
+A drug-awareness project bringing overdose prevention, recovery information, music, remembrance, and help resources together.
 
-[About & installation](https://github.com/y2kbeatzz-dot/crystal-pocket-pet#readme)
+[Visit the site](https://y2kbeatzz-dot.github.io/After-The-High/) · [Repository](https://github.com/y2kbeatzz-dot/After-The-High)
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,6 @@ A self-harm and suicide awareness website with coping ideas, support resources, 
 
 | Project | What it’s for |
 | :--- | :--- |
-| [After The High](https://y2kbeatzz-dot.github.io/After-The-High/) | Drug awareness, overdose prevention, recovery, remembrance, and help resources. |
 | [VRChat Avatar Tagger](https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger) | Bulk-apply VRChat Content Warning tags from the command line. |
 | [Crystal GIF PFP](https://github.com/y2kbeatzz-dot/crystal-gif-pfp) | A browser extension for animated profile pictures on YouTube. |
 
