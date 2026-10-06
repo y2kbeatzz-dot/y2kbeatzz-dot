@@ -118,12 +118,12 @@ Languages and tools I use and keep learning:
 <br>
 
 <details>
-<summary><b>A peek at my GitHub activity</b></summary>
+<summary><b>A peek at my public projects</b></summary>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y2kbeatzz-dot&theme=github_dark" width="700" alt="GitHub contribution activity for y2kbeatzz-dot" /></a>
+<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="./assets/public-projects.svg" width="700" alt="Public GitHub repository statistics for y2kbeatzz-dot" /></a>
 </div>
 
 </details>
@@ -139,7 +139,7 @@ Languages and tools I use and keep learning:
 <br><br>
 
 <a href="https://github.com/y2kbeatzz-dot?tab=repositories">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y2kbeatzz-dot&theme=github_dark" width="340" alt="Languages across my GitHub repositories — circular language report" />
+<img src="./assets/language-report.svg" width="480" alt="Languages across my GitHub repositories — circular language report" />
 </a>
 
 </div>
