@@ -136,4 +136,10 @@ Languages and tools I use and keep learning:
 
 [GitHub](https://github.com/y2kbeatzz-dot) · [guns.lol](https://guns.lol/life999)
 
+<br><br>
+
+<a href="https://github.com/y2kbeatzz-dot?tab=repositories">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y2kbeatzz-dot&theme=github_dark" width="340" alt="Languages across my GitHub repositories — circular language report" />
+</a>
+
 </div>
