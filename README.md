@@ -2,7 +2,7 @@
 
 <a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="./assets/nitta-banner.png" width="900" alt="Crystal / Nitta Hoshi — explore my projects" /></a>
 
-# hey, I'm Crystal ✦
+# Hey, I'm Crystal/Nitta ✦
 
 **Nitta Hoshi · she/her · y2kbeatzz-dot**
 
