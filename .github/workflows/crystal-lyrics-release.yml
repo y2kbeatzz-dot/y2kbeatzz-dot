@@ -1,0 +1,40 @@
+name: Publish Crystal Lyrics
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - CrystalLyrics/release.json
+      - CrystalLyrics/publish_release.py
+      - .github/workflows/crystal-lyrics-release.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crystal-lyrics-release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Import checksum-verified extension and website source
+        run: python3 CrystalLyrics/publish_release.py import
+      - name: Save public source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CrystalLyrics/extension CrystalLyrics/website
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish complete Crystal Lyrics 1.4.0 source"
+            git pull --rebase
+            git push
+          fi
+      - name: Publish downloadable release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 CrystalLyrics/publish_release.py publish
