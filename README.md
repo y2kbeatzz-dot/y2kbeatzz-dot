@@ -82,7 +82,6 @@ A self-harm and suicide awareness website with coping ideas, support resources, 
 | :--- | :--- |
 | [VRChat Avatar Tagger](https://github.com/y2kbeatzz-dot/vrchat-avatar-tagger) | Bulk-apply VRChat Content Warning tags from the command line. |
 | [Crystal GIF PFP](https://github.com/y2kbeatzz-dot/crystal-gif-pfp) | A browser extension for animated profile pictures on YouTube. |
-| [Crystal Lyrics](./CrystalLyrics/) | Free synced YouTube lyrics with word effects, glow and custom colors. [Website & download](https://crystal-lyrics.xqv5xwnjjq.chatgpt.site/) |
 
 ### What I like working on
 
