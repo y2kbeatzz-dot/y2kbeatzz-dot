@@ -1,0 +1,63 @@
+CrystalLyrics 1.4 — verification
+
+Passed: 41 automated parser, matching, background, appearance, word timing,
+audio-manager, cover lookup, color-matching and lyric-effects tests. These cover source word-timestamp preservation,
+line-only estimates, ad/pause/seek clock exclusions, audio-to-lyric alignment,
+safe color/glow settings, trusted audio controls, capture token validation,
+local timing storage, distinct finish/cancel behavior, optional cover lookup,
+song/artist/album matching, rejection of wrong versions and untrusted image
+URLs, palette caching, neutral/saturated artwork, gently blended video
+colors, exclusive toggle behavior, stale response cancellation, ad exclusion,
+blocked video pixels, and preservation of saved manual colors.
+Effect tests cover legacy defaults, independent switches, bounded motion
+derived from word progress, reduced-motion behavior, and actual line timing.
+
+Passed: controlled Chromium 153 playback and UI checks for line-only word
+effects, audio-derived timing display, steady glow, all four lyric/glow
+colors, actual within-word progress, fonts and custom font loading, both
+background opacities, movable/resizable remembered layouts, line gaps,
+pause/play, seeks, delays, playback speed, ads, fullscreen, minimize,
+preferences, watch-page navigation, untimed text, timed-file import, and
+layout in a smaller viewport.
+
+Passed: popup appearance controls, live font/color/glow preview, preservation
+of saved geometry, reset/show actions, popup height and horizontal overflow.
+Passed: updated installation guide rendering and horizontal overflow.
+
+Passed: all seven independent effect switches in the panel and popup, native
+rendering of solid current-word highlights, disabling glow without losing its
+intensity, word lift/emphasis, the progress underline, line fade and soft
+focus in both boxes. Paused effects stay still; seeks update them correctly.
+Reduced motion preserves still emphasis/lift and removes progressive line
+fading. Switches survive page reload. The popup's still preview reflects the
+switches, and resetting effects preserves colors, font preferences and layout.
+
+Passed: both automatic color toggles, cover palette application in both lyric
+boxes, selected lyric metadata, cover mode persistence across page reload,
+real canvas-stream video frame sampling, gentle scene changes, ad exclusion,
+no cover lookup in video mode, missing-cover fallback, late-response rejection,
+and restoring the exact manual color values.
+Retained from 1.3 (cover lookup code unchanged): actual packaged background lookup code in a browser worker decoded
+a real catalog cover JPEG and extracted its palette with OffscreenCanvas
+under the extension CSP. Repeated requests reused the saved palette. The live
+catalog returned 8 results, and the matched album image was retrieved.
+
+Retained from 1.2 (audio code unchanged): actual browser/WASM inference under the extension's script/connect
+policy produced 22 finite word timestamp pairs from a real speech sample.
+Retained from 1.2: real MediaRecorder WebM/Opus recording, native audio decoding and
+resampling, actual local model inference, and lyric alignment produced 22
+audio-timed words from that speech sample. Capture stream acquisition was
+substituted with a Web Audio stream in this test; Chrome's tabCapture API
+authorization is covered by mocked lifecycle tests, not a live YouTube tab.
+Retained from 1.2: cancellation during pending stream acquisition releases all tracks.
+
+Passed: packaged references, manifest version/permissions/CSP, required
+assets, licenses, bundled font signatures, icon dimensions, and ZIP integrity.
+Previous live API check: LRCLIB returned 20 records; all 20 parsed as timed.
+
+Playback UI checks use a controlled page with a simulated video clock.
+They do not establish compatibility with every live YouTube layout.
+Audio inference was tested on speech, not every singing style. Recognition
+can miss or mistime vocals. Estimated word positions are labeled separately
+and cannot guarantee exact singing synchronization. Supplied word timings
+take priority. Imported fonts/lyrics and captured audio stay local.

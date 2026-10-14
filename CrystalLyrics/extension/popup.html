@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>CrystalLyrics</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <header><div class="logo" aria-hidden="true">♪</div><div><p class="eyebrow">YOUTUBE · SYNCED LYRICS</p><h1>CrystalLyrics</h1></div><span class="version">1.4</span></header>
+  <p class="intro">Lyrics that follow your video.</p>
+  <main>
+    <label class="setting"><span><strong>Enable lyrics</strong><small>YouTube + YouTube Music</small></span><input type="checkbox" id="enabled" role="switch"></label>
+    <label class="setting"><span><strong>Lyrics on the video</strong><small>Also works in fullscreen</small></span><input type="checkbox" id="overlay" role="switch"></label>
+    <label class="setting"><span><strong>Reduce motion</strong><small>Still effects and instant scrolling</small></span><input type="checkbox" id="reduceMotion" role="switch"></label>
+    <label class="setting"><span><strong>Prefer word timing</strong><small>Find a matching word-timed version</small></span><input type="checkbox" id="preferWordSync" role="switch"></label>
+    <label class="setting"><span><strong>Automatic word effect</strong><small>Estimate words when only lines are timed</small></span><input type="checkbox" id="autoWordEffect" role="switch"></label>
+    <label class="setting"><span><strong>Edit video box</strong><small>Show its move and resize handles</small></span><input type="checkbox" id="editLayout" role="switch"></label>
+    <details class="effects-settings"><summary>Lyric effects</summary>
+      <div id="effectPreview" class="effect-preview" aria-label="Lyric effects preview"><div class="preview-line"><span class="word sung">Your </span><span class="word current">lyrics</span><span class="word future"> glow</span></div><div class="preview-next">Next lyric line</div></div>
+      <p class="transparency-note">Still preview · effects follow playback on YouTube.</p>
+      <div id="effectOptions"></div>
+      <p class="transparency-note">Reduce motion keeps lift and emphasis still while active. Line fades become instant. Combine any effects.</p>
+      <button id="resetEffects" type="button">Reset effects</button>
+    </details>
+    <details class="appearance-settings" open><summary>Fonts, colors & transparency</summary>
+    <label class="setting"><span><strong>Font</strong></span><select id="font" aria-label="Lyrics font"></select></label>
+    <div id="fontPreview" class="font-preview">One word at a time ♪</div>
+    <div class="custom-font"><button id="loadFont" type="button">Load your font</button><span id="fontName">TTF, OTF, WOFF / WOFF2</span><input id="fontFile" type="file" accept=".ttf,.otf,.woff,.woff2" hidden></div>
+    <label class="setting font-setting"><span><strong>Panel text size</strong></span><input type="range" id="fontSize" min="16" max="48" value="24"><output id="fontSizeValue" for="fontSize">24</output></label>
+    <label class="setting font-setting"><span><strong>Video text size</strong></span><input type="range" id="overlayFontSize" min="14" max="64" value="28"><output id="overlayFontSizeValue" for="overlayFontSize">28</output></label>
+    <label class="setting font-setting"><span><strong>Panel background</strong></span><input type="range" id="panelOpacity" min="0" max="100" value="55"><output id="panelOpacityValue" for="panelOpacity">55%</output></label>
+    <label class="setting font-setting"><span><strong>Video background</strong></span><input type="range" id="overlayOpacity" min="0" max="100" value="0"><output id="overlayOpacityValue" for="overlayOpacity">0%</output></label>
+    <label class="setting font-setting"><span><strong>Word glow</strong></span><input type="range" id="glowStrength" min="0" max="100" value="65"><output id="glowStrengthValue" for="glowStrength">65</output></label>
+    <label class="setting"><span><strong>Use cover art colors</strong><small>Look up the matched song’s artwork</small></span><input type="checkbox" id="useCoverColors" role="switch"></label>
+    <label class="setting"><span><strong>Use video colors</strong><small>Match the picture with gentle updates</small></span><input type="checkbox" id="useVideoColors" role="switch"></label>
+    <p id="colorState" class="transparency-note" role="status">Manual colors are saved. Choose one matching mode.</p>
+    <label class="setting"><span><strong>Active word color</strong></span><input type="color" id="activeColor" aria-label="Active word color"></label>
+    <label class="setting"><span><strong>Finished words color</strong></span><input type="color" id="pastColor" aria-label="Finished words color"></label>
+    <label class="setting"><span><strong>Upcoming words color</strong></span><input type="color" id="futureColor" aria-label="Upcoming words color"></label>
+    <label class="setting"><span><strong>Glow color</strong></span><input type="color" id="glowColor" aria-label="Glow color"></label>
+    <p class="transparency-note">0% = fully transparent · 100% = solid background</p>
+    <label class="setting"><span><strong>Next line on video</strong></span><input type="checkbox" id="showNext" role="switch"></label>
+    </details>
+    <div class="actions"><button id="show" type="button">Show lyrics</button><button id="refresh" type="button">Find automatically</button></div>
+    <p id="status" role="status">Open a music video, then show lyrics.</p>
+    <button id="resetLayout" class="reset-layout" type="button">Reset both box positions</button>
+    <details class="audio-settings"><summary>Local audio timing</summary><p>Improve timing from the song’s audio. This plays the song from the beginning, captures only this tab locally, then generates word positions for replay. The first use downloads an approximately 80 MB model. Singing recognition can miss words; those use the automatic effect.</p><div class="audio-actions"><button id="learnAudio" type="button">Learn this song</button><button id="finishAudio" type="button">Finish & analyze</button><button id="cancelAudio" type="button">Cancel</button></div><p id="audioState" role="status">Ready for local audio timing.</p></details>
+    <div class="note"><strong>Word effects on line-only lyrics.</strong><p>AUTO WORDS uses estimated word positions inside real line timings. AUDIO WORDS uses local vocal recognition; missed words stay estimated. Supplied word timestamps take priority. Glow and lyric colors apply to both boxes.</p></div>
+  </main>
+  <footer><a href="START-HERE.html" target="_blank">Install & help</a><a href="https://www.youtube.com" target="_blank" rel="noopener noreferrer">Open YouTube ↗</a></footer>
+  <script src="effects.js"></script><script src="appearance.js"></script><script src="palette-core.js"></script><script src="popup.js"></script>
+</body>
+</html>
