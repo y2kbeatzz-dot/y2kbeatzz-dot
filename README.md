@@ -1,11 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="./assets/nitta-banner.png" width="900" alt="Crystal / Nitta Hoshi — explore my projects" /></a>
+<a href="https://github.com/y2kbeatzz-dot?tab=repositories"><img src="./assets/nitta-banner.png" width="900" alt="Ksyusha — explore my projects" /></a>
 
-# Hey, I'm Crystal/Nitta ✦
+# Привет, I'm Ksyusha (Ксюша) ✦
 
-**Nitta Hoshi · she/her · y2kbeatzz-dot**
+**Ksyusha · she/her · developer & creator**
 
+୨୧ Dark aesthetics, thoughtful design, and software with personality.<br>
 I build tools I wish already existed.<br>
 Apps, VRChat creator tools, personal interfaces, and projects that help people connect.
 
@@ -17,7 +18,7 @@ Apps, VRChat creator tools, personal interfaces, and projects that help people c
 
 ---
 
-### A little about me
+### ୨୧ A little about me
 
 Windows is my main workspace, Unity is where I work on VRChat projects, and I’m always learning something new. I like dark interfaces, Y2K details, music, and making everyday software feel more personal.
 
