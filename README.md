@@ -6,10 +6,11 @@
 
 **Ksyusha · she/her · developer & creator**
 
-୨୧ Dark aesthetics, thoughtful design, and software with personality.<br>
+୨୧ Minimal interfaces, expressive motion, and software with personality.<br>
 I build tools I wish already existed.<br>
 Apps, VRChat creator tools, personal interfaces, and projects that help people connect.
 
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-00a878?style=for-the-badge&logoColor=white)](https://y2kbeatzz-dot.github.io/Ksyusha-Portfolio/)
 [![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-c4a7ff?style=for-the-badge&logo=github&logoColor=171322)](https://github.com/y2kbeatzz-dot?tab=repositories)
 [![CrystalTalk](https://img.shields.io/badge/TRY_CRYSTALTALK-94e2d5?style=for-the-badge&logoColor=171322)](https://y2kbeatzz-dot.github.io/crystaltalk/)
 [![Find me](https://img.shields.io/badge/FIND_ME-f5c2e7?style=for-the-badge&logoColor=171322)](https://guns.lol/life999)
@@ -20,9 +21,15 @@ Apps, VRChat creator tools, personal interfaces, and projects that help people c
 
 ### ୨୧ A little about me
 
-Windows is my main workspace, Unity is where I work on VRChat projects, and I’m always learning something new. I like dark interfaces, Y2K details, music, and making everyday software feel more personal.
+I work across macOS, Windows, and Linux, exploring desktop development, web experiences, and VRChat creator tools. I enjoy minimal design, emerald accents, interactive motion, music, and making everyday software feel more personal.
 
 My projects range from mobile communication apps to desktop experiments and awareness websites. Some are practical, some are cozy, and some start with “why doesn’t this exist already?”
+
+### Featured — Ksyusha Portfolio
+
+My interactive portfolio brings together my projects, creative work, and technical interests. Explore customizable themes, glass-inspired interfaces, interactive artwork, optional 3D effects, and a built-in music player.
+
+[Visit my portfolio](https://y2kbeatzz-dot.github.io/Ksyusha-Portfolio/) · [Source code](https://github.com/y2kbeatzz-dot/Ksyusha-Portfolio)
 
 ### In the spotlight
 
@@ -87,7 +94,7 @@ A self-harm and suicide awareness website with coping ideas, support resources, 
 ### What I like working on
 
 - **VRChat & Unity:** avatar utilities, creator workflows, OSC, and custom interfaces.
-- **Desktop & browser:** Windows apps, launchers, wallpaper customization, and UI experiments.
+- **Desktop & browser:** Cross-platform apps, launchers, wallpaper customization, and UI experiments.
 - **Music & media:** players, lyrics, visualizers, animated artwork, and media widgets.
 - **Mobile:** communication tools and small personal apps for phones and tablets.
 
